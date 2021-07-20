@@ -12,7 +12,6 @@ Country = "India"
 
 #Noob Bot Dev 
 
-Telegram is love ❤
 
 ```
 
