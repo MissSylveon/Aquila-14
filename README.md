@@ -21,9 +21,9 @@ Country = "India"
 
 - ✨I'm Still Learning Git & GitHub
 
-- ⚓Most of my repositories are for [telegram](https://t.me/Aquila_14)
+- ⚓Most of my repositories are for telegram
  
-- 📫 How to reach me: Dm me on telegram 
+- 📫 How to reach me: Dm me on [telegram](https://t.me/Aquila_14)
 
 - ⚡ Fun fact: I don't know (●'◡'●)
 -->
